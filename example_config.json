@@ -1,0 +1,9 @@
+{
+  "bot_token": "",
+  "parser_settings": {
+    "DATE_ORDER": "DMY"
+  },
+  "timezone": "Asia/Singapore",
+  "locale": "en_SG",
+  "db_name": "kiri.db"
+}
